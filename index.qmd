@@ -1,0 +1,16 @@
+---
+title: "Ana Sayfa"
+subtitle: "Uygulamalı Ekonometri"
+output: html_document
+---
+
+# Hoş Geldiniz!
+
+Merhaba! Bu web sitesi, Uygulamalı Ekonometri dersi için hazırladığım kişisel bir projedir.
+
+Bu sitede, ders kapsamında gerçekleştirdiğim ödevler, projeler ve analizler yer alacak. Ayrıca, econometrics üzerine çeşitli konular hakkında düşüncelerimi ve öğrenim sürecimde karşılaştığım önemli noktaları burada paylaşacağım.
+
+Lütfen üst menüdeki bölümler aracılığıyla siteyi keşfedin. Ödevlerim ve Projelerim sekmesinde detaylı analizlere ulaşabilirsiniz. Ayrıca, hakkımda daha fazla bilgi edinmek için Hakkımda sayfasını ziyaret edebilirsiniz.
+
+## Projelerim
+- **Site içeriği:** Uygulamalı ekonometri dersi ödevleri, Verilerle yapılan analizler, R kodları ve sonuçlar, Kişisel düşünceler ve öğrenim notları

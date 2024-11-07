@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Projem1"
+  description: "Bu, Quarto ile oluşturduğum web sitemdir."
+  navbar:
+    title: "Uygulamalı Ekonometri"
+    left:
+      - text: "Ana Sayfa"
+        href: index.qmd
+      - text: "Hakkında"
+        href: about.qmd
+      - text: "Ödevler"
+        menu:
+          - text: "Ödev 1"
+            href: odev1.qmd
+          - text: "Ödev 2"
+            href: odev2.qmd
+      - text: "Projelerim"
+        menu:
+          - text: "Proje 1"
+            href: proje1.qmd
+          - text: "Proje 2"
+            href: proje2.qmd

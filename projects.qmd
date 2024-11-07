@@ -1,0 +1,27 @@
+---
+title: "Hakkında"
+---
+
+# Hakkımda
+
+Merhaba! Ben **[İbrahim]**, veri bilimi, istatistik ve R programlama dili ile ilgileniyorum. Bu siteyi, projelerimi, analizlerimi ve öğrendiklerimi paylaşmak için oluşturdum.
+
+## Eğitim ve Deneyim
+
+- **Eğitim:** [Karabük] Üniversitesi, [iktisat]
+- **Deneyim:** Veri analizi, görselleştirme, makine öğrenmesi projeleri ve çeşitli analiz çalışmaları
+
+## Bu Site Hakkında
+
+Bu sitede şunları bulabilirsiniz:
+- **Veri Analizleri:** Farklı veri setleriyle yaptığım analizleri ve elde ettiğim sonuçları paylaşıyorum.
+- **Proje Çalışmaları:** Veri bilimi ve makine öğrenmesi üzerine yaptığım projelere buradan ulaşabilirsiniz.
+- **Blog Yazıları:** Veri bilimi, R dili ve Quarto hakkında yazılar paylaşıyorum.
+
+## İletişim
+
+Bana ulaşmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz:
+
+- **E-posta:** example@example.com
+- **LinkedIn:** [LinkedIn Profilin](https://www.linkedin.com/in/username)
+- **GitHub:** [GitHub Hesabın](https://github.com/username)
